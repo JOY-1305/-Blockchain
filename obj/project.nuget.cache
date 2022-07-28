@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WMrNMaoEbzAblj/F97BSfpnVcRY0wftTCHAUodndUOCwFhyxl9c4xgGCvEVngwB/DOwdGjPPCYLRcyUweswyrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jyoti\\Desktop\\app\\app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jyoti\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\jyoti\\.nuget\\packages\\websocketsharp-netstandard\\1.0.1\\websocketsharp-netstandard.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
